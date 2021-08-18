@@ -1,5 +1,6 @@
 
-# ![](https://github.com/linyushu520/CreatingResource/title.png)
+ ![]
+(https://github.com/linyushu520/CreatingResource/title.png)
 这是Creating服务器的专用资源包
 
 修改自[邹陈云飞](https://space.bilibili.com/170651403)大佬的【乘方像素】，已取得授权
