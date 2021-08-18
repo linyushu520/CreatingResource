@@ -2,7 +2,7 @@
    "format_version" : 1,
    "header" : {
       "description" : "§6Creating服务器专用资源包",
-      "name" : "CREATING 资源包 v1.4.1",
+      "name" : "CREATING 资源包 v0.0.0",
       "platform_locked" : false,
       "uuid" : "ac97c4cd-1aa2-409e-b790-18c2e91b277a",
       "version" : [ 1, 0, 0 ]
