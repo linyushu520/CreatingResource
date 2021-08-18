@@ -10,6 +10,6 @@
 
 本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
 
-#### 授权证明
+## 授权证明
 
 <img src="https://github.com/linyushu520/CreatingResource/raw/main/%E6%8E%88%E6%9D%83%E8%AF%81%E6%98%8E.jpg" alt="授权证明" width="400"/></a>
