@@ -1,0 +1,10 @@
+{
+  "namespace": "file_upload",
+
+  "progress_bar_nub": {
+    "type": "image",
+    "texture": "textures/ui/experiencenub",
+    "tiled": true,
+    "tiled_scale": [ 0.5, 0.5 ]
+  }
+}

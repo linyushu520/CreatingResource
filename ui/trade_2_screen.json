@@ -1,0 +1,10 @@
+{
+  "namespace": "trade2",
+
+  "progress_bar_nub": {
+    "type": "image",
+    "texture": "textures/ui/experience_bar_nub_blue",
+    "tiled": true,
+    "tiled_scale": [ 0.5, 0.5 ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "namespace": "pdp",
+
+  "in_realms_plus_button_content": {
+    "type": "panel",
+    "size": [ "100% + 4px", "100%" ],
+    "$is_purchase_button": false,
+    "controls": [
+      {
+        "realm_icon_panel": {
+          "type": "panel",
+          "size": [ "100%", "100% + 4px" ],
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "offset": [ -3, 2 ],
+          "controls": [
+            {
+              "realms_banner@realmsPlus.markdown_background": {
+                "size": [ "100%c", "100%" ],
+                "$banner_size": [ "13px", "100%" ],
+                "offset": [ 3, -2 ],
+                "$triangle_offset": [ 0, 0 ],
+                "ignored": "(not $default_state)",
+                "layer": 9
+              }
+            },
+            {
+              "realms_plus_normal": {
+                "type": "image",
+                "texture": "textures/ui/realms_plus_normal",
+                "size": [ 19, 19 ],
+                "uv_size": [ 38, 38 ],
+                "uv": "@pdp.realms_default_animation",
+                "disable_anim_fast_forward": true,
+                "anchor_from": "bottom_left",
+                "anchor_to": "bottom_left",
+                "offset": [ 1, -2 ],
+                "layer": 15,
+                "ignored": "(not $default_state)"
+              }
+            },
+            {
+              "realms_plus_hover": {
+                "type": "image",
+                "texture": "textures/ui/realms_plus_hover",
+                "size": [ 19, 19 ],
+                "uv_size": [ 38, 38 ],
+                "uv": "@pdp.realms_default_animation",
+                "disable_anim_fast_forward": true,
+                "anchor_from": "bottom_left",
+                "anchor_to": "bottom_left",
+                "offset": [ 1, -2 ],
+                "layer": 15,
+                "ignored": "$default_state"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "text": {
+          "type": "label",
+          "size": [ "default", 10 ],
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [ 8, 2.5 ],
+          "text_alignment": "center",
+          "text": "store.inRealmsPlus",
+          "color": "$text_color"
+        }
+      }
+    ]
+  }
+}

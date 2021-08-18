@@ -1,0 +1,40 @@
+{
+  "namespace": "filter_menu",
+
+  "portal_animation": {
+    "anim_type": "flip_book",
+    "base_size": [ 304, 19 ],
+    "initial_uv": [ 0, 0 ],
+    "frame_count": 16,
+    "frame_step": 19,
+    "fps": 10,
+    "reversible": true,
+    "easing": "linear"
+  },
+  "realms_plus_filter": {
+    "type": "panel",
+    "size": "$filter_button_panel_size",
+    "controls": [
+      {
+        "realms_plus_filter@filter_menu.filter_checkbox_toggle": {
+          "$content_toggle_image_uv": "@filter_menu.portal_animation",
+          "$content_toggle_image_uv_size": [ 38, 38 ],
+
+          "$button_content": "filter_menu.gradient_content_panel",
+
+          "$content_toggle_image|default": "textures/ui/realms_plus_normal",
+          "$content_toggle_variables": [
+            {
+              "requires": "$toggle_checked_hover",
+              "$content_toggle_image": "textures/ui/realms_plus_hover"
+            },
+            {
+              "requires": "$toggle_unchecked_hover",
+              "$content_toggle_image": "textures/ui/realms_plus_hover"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

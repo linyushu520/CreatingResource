@@ -1,0 +1,25 @@
+{
+  "namespace": "persona",
+
+  "pick_axe_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [ 0, 0 ],
+    "frame_count": 91,
+    "frame_step": 10,
+    "fps": 30,
+    "reversible": false,
+    "easing": "linear"
+  },
+
+  "loading_icon": {
+    "type": "image",
+    "layer": 1,
+    "texture": "textures/ui/mine_chop_dig_animation",
+    "anchor_from": "top_middle",
+    "anchor_to": "top_middle",
+    "size": [ 30, 30 ],
+    "uv_size": [ 20, 20 ],
+    "uv": "@persona.pick_axe_animation",
+    "color": [ 1, 1, 1, 1 ]
+  }
+}

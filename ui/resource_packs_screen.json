@@ -1,0 +1,60 @@
+{
+  "namespace": "resource_packs",
+
+  "resource_packs_toggle_button_control": {
+    "type": "panel",
+    "layer": 2,
+    "controls": [
+      {
+        "icon_border@white_image": {
+          "size": [ 16, 16 ],
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "offset": [ 5.5, 0 ],
+          "layer": 1
+        }
+      },
+      {
+        "cycling_icon": {
+          "type": "image",
+          "size": [ 15, 15 ],
+          "offset": [ 6, 0 ],
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "$icon_collection_name": "none",
+          "layer": 3,
+          "bindings": [
+            {
+              "binding_name": "$cycling_icon_path",
+              "binding_name_override": "#texture",
+              "binding_condition": "always"
+            },
+            {
+              "binding_name": "$cycling_icon_zip",
+              "binding_name_override": "#zip_folder",
+              "binding_condition": "always"
+            },
+            {
+              "binding_name": "$cycling_icon_file_system",
+              "binding_name_override": "#texture_file_system",
+              "binding_condition": "always"
+            }
+          ]
+        }
+      },
+      {
+        "tab_button_text": {
+          "type": "label",
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "max_size": [ "100% - 34px", "100%" ],
+          "offset": [ 34, 0 ],
+          "text": "$button_text",
+          "layer": 3,
+          "color": "$text_color",
+          "alpha": "$content_alpha"
+        }
+      }
+    ]
+  }
+}
