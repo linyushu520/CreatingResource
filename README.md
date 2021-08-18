@@ -7,7 +7,7 @@
 
 # 温馨提示
 
-本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 下载
+本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
 
 # 授权证明
 
