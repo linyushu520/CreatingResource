@@ -12,4 +12,4 @@
 
 ## 授权证明
 
-<img src="https://github.com/linyushu520/CreatingResource/raw/main/%E6%8E%88%E6%9D%83%E8%AF%81%E6%98%8E.jpg" alt="授权证明" width="400"/></a>
+<img src="https://github.com/linyushu520/CreatingResource/raw/main/%E6%8E%88%E6%9D%83%E8%AF%81%E6%98%8E.jpg" alt="授权证明" width="200"/></a>
