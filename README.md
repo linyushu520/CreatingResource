@@ -1,4 +1,4 @@
- ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/title.png "Creating Logo")
+ ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/.png "Creating Logo")
 ## Creating 资源包
 这是Creating服务器的专用资源包
 
