@@ -8,6 +8,11 @@
 
 你可以在游戏中使用本资源包，但绝对不能用于商业用途
 
+##一些说明
+
+
+作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
+
 ## 温馨提示
 
 本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
