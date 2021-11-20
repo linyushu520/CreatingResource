@@ -10,7 +10,7 @@
 
 ## 一些说明
 
-* 8If you need English, please [click here](https://github.com/linyushu520/CreatingResource/blob/main/English.md)
+* If you need English, please [click here](https://github.com/linyushu520/CreatingResource/blob/main/English.md)
 
 * 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
