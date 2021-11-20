@@ -26,7 +26,7 @@
 
  (Integrated texture pack, cursive Chinese, multi-sound effects pack)
 
- Modified from [邹陈云飞](https://space.bilibili.com/170651403) [Chengfang Pixel] of the big guy, authorized
+ Modified from [邹陈云飞](https://space.bilibili.com/170651403) [MutiPixel] of the big guy, authorized
 
  You can use this resource pack in the game, but it must not be used for commercial purposes
 
