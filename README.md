@@ -12,8 +12,6 @@
 
 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
-## 温馨提示
-
 本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
 
 ## 授权证明
