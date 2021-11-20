@@ -10,15 +10,18 @@
 
 ## 一些说明
 
-作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
+* 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
-本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
+* 本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
+
+## 游戏截图
+
+![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/Screenshot_2021-11-19-22-28-23-542_com.mojang.minecraftpe.jpg "游戏截图")
 
 ## 授权证明
 
 <img src="https://github.com/linyushu520/CreatingResource/raw/main/%E6%8E%88%E6%9D%83%E8%AF%81%E6%98%8E.jpg" alt="授权证明" width="280"/></a>
 
-![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/clogo.png "Creating Logo")
  ## Creating Resource
  This is a dedicated resource pack for the Creating server
 
