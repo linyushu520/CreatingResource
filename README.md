@@ -12,7 +12,7 @@
 
 * If you need English, please [click here](https://github.com/linyushu520/CreatingResource/blob/main/English.md)
 
-* 在1.7.1版本中，我们删除了草体中文，若您有需要请去[这里](https://github.com/linyushu520/CaoTi-Chinese/releases)下载草体中文扩展包
+* 在1.7.1版本中，我们删除了草体中文，若您有需要，请[点击这里](https://github.com/linyushu520/CaoTi-Chinese/releases)下载草体中文扩展包
 
 * 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
