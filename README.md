@@ -2,7 +2,7 @@
 ## Creating 资源包
 这是Creating服务器的专用资源包
 
-（集成了材质包，草体中文，梗多音效包）
+（集成了材质包，梗多音效包）
 
 修改自[邹陈云飞](https://space.bilibili.com/170651403)大佬的【乘方像素】，已取得授权
 
@@ -11,6 +11,8 @@
 ## 一些说明
 
 * If you need English, please [click here](https://github.com/linyushu520/CreatingResource/blob/main/English.md)
+
+* 在1.7.1版本中，我们删除了草体中文，若您有需要请去[这里](https://github.com/linyushu520/CaoTi-Chinese/releases)下载草体中文扩展包
 
 * 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
