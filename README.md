@@ -22,7 +22,7 @@
 
 ## 游戏截图
 
-![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/Screenshot_2021-11-19-22-28-23-542_com.mojang.minecraftpe.jpg "游戏截图")
+![](http://share.73745654.xyz/MC2/%E5%9B%BE%E5%BA%8A/Github/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-01-27%20132434.png "游戏截图")
 ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/Screenshot_2021-11-20-17-50-39-491_com.mojang.minecraftpe.jpg "游戏截图")
 ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/Screenshot_2021-11-20-17-49-36-128_com.mojang.minecraftpe.jpg "游戏截图")
 
