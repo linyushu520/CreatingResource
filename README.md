@@ -14,6 +14,8 @@
 
 * 在1.7.1版本中，我们删除了草体中文，若您有需要，请[点击这里](https://github.com/linyushu520/CaoTi-Chinese/releases)下载草体中文扩展包
 
+* 在2.0.0版本中，我们删除了几乎所有的乘方像素的贴图及梗多音效包。如果你需要的话，请[点击这里](https://github.com/linyushu520/CreatingResource-KZ)
+
 * 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
 * 本资源包不含Creating音乐包，如需要音乐包请前往 [CreatingMusicResource](https://github.com/CatalpaCute/catalpacute.github.io/releases/) 
