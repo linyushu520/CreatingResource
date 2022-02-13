@@ -1,6 +1,7 @@
- ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/pack_icon.png "Creating Logo")
+ ## 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
  
-## 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
+ 
+ ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/pack_icon.png "Logo")
 
 ## Creating 资源包
 这是Creating服务器的专用资源包
