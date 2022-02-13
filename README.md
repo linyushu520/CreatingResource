@@ -1,4 +1,4 @@
- ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/clogo.png "Creating Logo")
+ ![](https://raw.githubusercontent.com/linyushu520/CreatingResource/main/pack_icon.png "Creating Logo")
  
 ## 作者们是学生，最近比较忙，所以更新频率会大幅降低，请谅解
 
